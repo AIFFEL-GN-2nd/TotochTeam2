@@ -16,10 +16,10 @@
 
 | Day  |         학습 내용          | 교재 | 실습 예제 |
 | :--: | :------------------------: | :---: | :---------: |
-|  1   |     파이토치 기본익히기      | [tutorial](https://tutorials.pytorch.kr/beginner/basics/intro.html) </br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/9bow/PyTorch-Tutorials-kr/blob/master/docs/_downloads/b1d4159a84585f5f5175e6835ff6a855/intro.ipynb) |    |
+|  1   |     파이토치 기본익히기      | [tutorial](https://tutorials.pytorch.kr/beginner/basics/intro.html) </br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/9bow/PyTorch-Tutorials-kr/blob/master/docs/_downloads/b1d4159a84585f5f5175e6835ff6a855/intro.ipynb) | - |
 |  2   |  예제로 배우는 파이토치(PYTORCH)   | [tutorial](https://tutorials.pytorch.kr/beginner/pytorch_with_examples.html)  |  [source](https://github.com/AIFFEL-GN-2nd/TotochTeam2/blob/main/Day2/%EC%9D%B4%EC%9B%83%EC%A7%91_%ED%86%A0%ED%86%A0%EC%B9%98_Day2_%EC%8B%A4%EC%8A%B5%EC%98%88%EC%A0%9C.ipynb) </br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ethan0625/TotochTeam2/blob/main/Day2/%EC%9D%B4%EC%9B%83%EC%A7%91_%ED%86%A0%ED%86%A0%EC%B9%98_Day2_%EC%8B%A4%EC%8A%B5%EC%98%88%EC%A0%9C.ipynb)  |
 |  3   | TORCH.NN 이 실제로 무엇인가요? | [tutorial](https://tutorials.pytorch.kr/beginner/nn_tutorial.html)   |  [source](https://github.com/AIFFEL-GN-2nd/TotochTeam2/blob/main/Day3/%EC%9D%B4%EC%9B%83%EC%A7%91_%ED%86%A0%ED%86%A0%EC%B9%98_Day3_%EC%9D%B4%EB%A1%A0%2B%EC%8B%A4%EC%8A%B5.ipynb) </br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ethan0625/TotochTeam2/blob/main/Day3/%EC%9D%B4%EC%9B%83%EC%A7%91_%ED%86%A0%ED%86%A0%EC%B9%98_Day3_%EC%9D%B4%EB%A1%A0%2B%EC%8B%A4%EC%8A%B5.ipynb)         |
-|  4   |          전이학습          |      |           |
+|  4   | 파이토치 실습 | - |  [source](https://github.com/AIFFEL-GN-2nd/TotochTeam2/blob/main/Day4/%EC%9D%B4%EC%9B%83%EC%A7%91_%ED%86%A0%ED%86%A0%EC%B9%98_Day4_%EC%8B%A4%EC%8A%B5.ipynb) </br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ethan0625/TotochTeam2/blob/main/Day4/%EC%9D%B4%EC%9B%83%EC%A7%91_%ED%86%A0%ED%86%A0%EC%B9%98_Day4_%EC%8B%A4%EC%8A%B5.ipynb)  |
 
 </br>
 
